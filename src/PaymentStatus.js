@@ -15,7 +15,7 @@ export default function PaymentStatus() {
     }
 
     axios
-      .post("https://your-backend-domain.com/api/payment/decrypt", { respData })
+      .post("https://backend.rajasreetownships.in/api/payment/decrypt", { respData })
       .then((res) => {
         const result = res.data;
         setData(result);
