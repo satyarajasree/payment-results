@@ -47,7 +47,7 @@ const About = () => {
             className="management-text order-md-2 order-1 text-center d-flex flex-column align-items-center justify-content-center"
           >
             <h2>
-              <span className="text-danger fw-bold">VSVL Narayana</span>
+              <span className="text-danger fw-bold">V.S.V.Lakshmi Narayana</span>
             </h2>
             <span className="text-success fw-bold d-block mb-3">
               Managing Director – Rajasree Townships
@@ -89,7 +89,7 @@ const About = () => {
             className="management-text order-md-1 order-2 text-center d-flex flex-column align-items-center justify-content-center p-4"
           >
             <h2>
-              <span className="text-danger fw-bold">N.V. Satyanarayana</span>
+              <span className="text-danger fw-bold">N.V.Satya Narayana</span>
             </h2>
             <span className="text-success fw-bold d-block mb-3">
               CFO – Rajasree Townships
