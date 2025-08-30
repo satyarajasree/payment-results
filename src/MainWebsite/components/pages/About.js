@@ -50,7 +50,7 @@ const About = () => {
               <span className="text-danger fw-bold">VSVL Narayana</span>
             </h2>
             <span className="text-success fw-bold d-block mb-3">
-              Director – Rajasree Townships
+              Managing Director – Rajasree Townships
             </span>
             <p className="intro pt-3 ">
               Rajasree township has completed a decade of successful service. We
@@ -92,7 +92,7 @@ const About = () => {
               <span className="text-danger fw-bold">N.V. Satyanarayana</span>
             </h2>
             <span className="text-success fw-bold d-block mb-3">
-              Co-Director – Rajasree Townships
+              CFO – Rajasree Townships
             </span>
             <p className="intro pt-3">
               It gives me great pleasure to share a few words on behalf of
